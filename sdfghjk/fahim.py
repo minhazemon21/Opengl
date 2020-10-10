@@ -1,0 +1,2 @@
+fahim = inp
+print(fahim)
